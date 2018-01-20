@@ -1,0 +1,12 @@
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\BeProduct-Export-Styles-To-CSV.exe.config
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\BeProduct-Export-Styles-To-CSV.exe
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\BeProduct-Export-Styles-To-CSV.pdb
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\obj\Debug\BeProduct-Export-Styles-To-CSV.csprojResolveAssemblyReference.cache
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\obj\Debug\BeProduct-Export-Styles-To-CSV.csproj.CoreCompileInputs.cache
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\obj\Debug\BeProduct-Export-Styles-To-CSV.exe
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\obj\Debug\BeProduct-Export-Styles-To-CSV.pdb
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\RestSharp.dll
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\System.ValueTuple.dll
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oikake\Documents\Visual Studio 2017\Project\BeProduct-Export-Styles-To-CSV\BeProduct-Export-Styles-To-CSV\bin\Debug\System.ValueTuple.xml
